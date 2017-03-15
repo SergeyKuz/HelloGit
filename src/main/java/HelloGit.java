@@ -6,5 +6,6 @@ public class HelloGit {
         System.out.println("Hello Git");
         System.out.println("Hello my master branch");
         System.out.println("");
+		System.out.println("sergey");
     }
 }
