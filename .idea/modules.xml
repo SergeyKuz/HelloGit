@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloArtifactId.iml" filepath="$PROJECT_DIR$/HelloArtifactId.iml" />
+      <module fileurl="file://C:\Users\Admin\Desktop\HelloGit\HelloArtifactId.iml" filepath="C:\Users\Admin\Desktop\HelloGit\HelloArtifactId.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HelloGit.iml" filepath="$PROJECT_DIR$/.idea/HelloGit.iml" />
     </modules>
   </component>
 </project>
